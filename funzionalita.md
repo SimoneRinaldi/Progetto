@@ -1,9 +1,9 @@
-- Possibilità di scambiare i biglietti per i gran premi dell'anno in corso con utenti impossibilitati ad andarci (utente)
+- Possibilità di scambiare i biglietti per eventi con utenti impossibilitati ad andarci (utente)
 - Visualizzare i risultati delle gare e relative statistiche (utente)
 - Account e Login (server)
-- Orari delle gare seguenti (utente)
-- Squadre e piloti preferiti (utente)
-- gare nel calendario (utente)
+- Date e Orari eventi (utente)
+- tipologia di eventi preferita preferiti (utente)
+- eventi di cui si è in possesso del biglietto sono segnati nel calendario (utente)
 
 Requisiti:
 connessione a internet
