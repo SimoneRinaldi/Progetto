@@ -1,0 +1,3 @@
+[Customer]-(Login),[Customer]-(Sign In),(Sign In)>(Add Card),(Sign In)>(Verify Email),(Sign In)<(Favourite Type of Event),(Login)>(Reset Password),[Logged Customer]-(Buy Ticket),[Logged Customer]-(Logout),[Logged Customer]-(Change Personal Information),[Logged Customer]-(Research Ticket),[Logged Customer]-(View Ticket),[Logged Customer]-(Sell Ticket),(Buy Ticket)<(Add Event to the Calendar),(Logout)<(Delete Account),[Customer]^[Logged Customer],(Buy Ticket)>[Bank]
+
+[Logged Customer]-(Buy Ticket),(Buy Ticket)-(Payment made Successfully),(Buy Ticket)-(Not enough Money),(Buy Ticket)-(Payment not made),(Buy Ticket)-(Card Refused),(Buy Ticket)<(Add Event to the Calendar),(Buy Ticket)>[Bank]
