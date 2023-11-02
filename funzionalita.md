@@ -1,9 +1,12 @@
-- Possibilità di scambiare i biglietti per eventi con utenti impossibilitati ad andarci (utente)
-- Visualizzare i risultati delle gare e relative statistiche (utente)
-- Account e Login (server)
-- Date e Orari eventi (utente)
-- tipologia di eventi preferita preferiti (utente)
-- eventi di cui si è in possesso del biglietto sono segnati nel calendario (utente)
+- Possibilità di scambiare i biglietti (vendere - comprare) per eventi con utenti impossibilitati ad andarci - (utente)
+- Visualizzare eventi e cercarli per categoria - (utente)
+- Visualizzare eventi passati a cui si ha partecipato - (utente)
+- Account e Login - (sistema)
+- Personalizzazione Account - (utente)
+- Visualizzazione Date, Orari e Luogo (mappa) eventi - (utente)
+- Tipologia di eventi preferita preferiti - (utente - sistema)
+- Eventi di cui si è in possesso del biglietto sono segnati nel calendario - (utente)
 
 Requisiti:
-connessione a internet
+- connessione a internet
+- carta di credito
