@@ -16,7 +16,7 @@ Requisiti:
 ![WBS](Work_Breakdown_Structure.png)
 
 Value Proposition: 
-La Tua Sicurezza Economica nell'Acquisto e Scambio di Biglietti
+La Tua Sicurezza nell'Acquisto e Scambio di Biglietti
 
 In un mondo in cui gli eventi sono esperienze irripetibili, garantiamo un'esperienza di scambio di biglietti sicura e conveniente. Offriamo un ambiente dedicato al tuo divertimento, assicurandoti la massima sicurezza e risparmiando denaro nel processo.
 
