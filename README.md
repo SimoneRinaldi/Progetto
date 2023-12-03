@@ -15,6 +15,18 @@ Requisiti:
 
 ![WBS](Work_Breakdown_Structure.png)
 
-Scambio di Biglietti in modo Sicuro ed Economico
+Value Proposition: 
+La Tua Sicurezza Economica nell'Acquisto e Scambio di Biglietti
 
-Scambio di Biglietti sicuro e con un prezzo di rivendita inferiore a quello del primo acquisto
+In un mondo in cui gli eventi sono esperienze irripetibili, garantiamo un'esperienza di scambio di biglietti sicura e conveniente. Offriamo un ambiente dedicato al tuo divertimento, assicurandoti la massima sicurezza e risparmiando denaro nel processo.
+
+Sicurezza al Primo Posto:
+La tua sicurezza è la nostra priorità. Questa piattaforma implementa rigorosi protocolli di sicurezza per garantire transazioni senza intoppi e proteggere i tuoi dati personali. Puoi scambiare i tuoi biglietti con la tranquillità che solo una piattaforma sicura può offrire.
+
+Prezzi Accessibili:
+Il divertimento non dovrebbe costare una fortuna. Ti offriamo la possibilità di acquistare e scambiare biglietti a un prezzo di rivendita inferiore a quello del primo acquisto. Rendiamo gli eventi accessibili a tutti, garantendo che la tua passione non debba pesare troppo sul tuo portafoglio.
+
+Facilità d'Uso:
+Abbiamo semplificato il processo di scambio di biglietti, offrendoti un'interfaccia utente intuitiva e transazioni senza complicazioni. Basta pochi clic per vivere l'evento dei tuoi sogni o liberare quei biglietti extra che hai a disposizione.
+
+Il tuo divertimento è al sicuro, accessibile e a portata di mano. Scambia biglietti con fiducia, risparmia denaro e goditi ogni momento senza preoccupazioni. La tua esperienza con noi è tanto memorabile quanto l'evento stesso.
