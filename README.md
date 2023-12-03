@@ -16,4 +16,5 @@ Requisiti:
 ![WBS](Work_Breakdown_Structure.png)
 
 Scambio di Biglietti in modo Sicuro ed Economico
+
 Scambio di Biglietti sicuro e con un prezzo di rivendita inferiore a quello del primo acquisto
