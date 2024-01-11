@@ -30,3 +30,29 @@ Facilità d'Uso:
 Abbiamo semplificato il processo di scambio di biglietti, offrendoti un'interfaccia utente intuitiva e transazioni senza complicazioni. Basta pochi clic per vivere l'evento dei tuoi sogni o liberare quei biglietti extra che hai a disposizione.
 
 Il tuo divertimento è al sicuro, accessibile e a portata di mano. Scambia biglietti con fiducia, risparmia denaro e goditi ogni momento senza preoccupazioni. La tua esperienza con noi è tanto memorabile quanto l'evento stesso.
+
+User Stories
+
+User Story: Scambio di Biglietti
+Come utente, voglio poter vendere i miei biglietti per eventi a persone che sono interessate ma impossibilitate ad andarci, così da poter recuperare parte del costo del biglietto.
+
+User Story: Visualizzazione Eventi per Categoria
+Come utente, desidero poter visualizzare gli eventi disponibili e cercarli per categoria, in modo da trovare facilmente quelli di mio interesse.
+
+User Story: Visualizzazione Eventi Passati
+Come utente, voglio poter vedere una lista degli eventi passati a cui ho partecipato, così da poter rivivere quei momenti e rivedere le informazioni correlate.
+
+User Story: Account e Login
+Come sistema, voglio garantire un sistema di account e login sicuro per gli utenti, in modo da proteggere le loro informazioni personali.
+
+User Story: Personalizzazione Account
+Come utente, voglio poter personalizzare il mio account con informazioni aggiuntive e preferenze personali, migliorando così l'esperienza personalizzata sulla piattaforma.
+
+User Story: Visualizzazione Date, Orari e Luogo degli Eventi
+Come utente, desidero poter visualizzare chiaramente le date, gli orari e i luoghi degli eventi, e avere accesso a una mappa per facilitare la pianificazione della partecipazione.
+
+User Story: Tipologia di Eventi Preferita
+Come utente, voglio poter selezionare le tipologie di eventi preferite, in modo che la piattaforma possa suggerire automaticamente eventi che potrebbero interessarmi.
+
+User Story: Segnalazione Eventi nel Calendario
+Come utente, desidero che gli eventi di cui ho in possesso il biglietto vengano automaticamente segnati nel mio calendario, facilitando così la gestione delle partecipazioni.
