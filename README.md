@@ -56,3 +56,6 @@ Come utente, voglio poter selezionare le tipologie di eventi preferite, in modo 
 
 User Story: Segnalazione Eventi nel Calendario
 Come utente, desidero che gli eventi di cui ho in possesso il biglietto vengano automaticamente segnati nel mio calendario, facilitando così la gestione delle partecipazioni.
+
+Multitenancy
+Il mio progetto è già predisposto alla multitenancy, in quanto ogni persona/azienda che vuole mettere in vendita un biglietto può configurare la mia webapp per le sue esigenze specifiche
